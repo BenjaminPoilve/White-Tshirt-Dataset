@@ -1,4 +1,4 @@
-#The White T-shirt DataSet
+# The White T-shirt DataSet
 
 
 This is a dataset of 245 segmented white t-shirt images. Pretty self explanatory! 
